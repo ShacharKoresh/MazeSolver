@@ -1,4 +1,4 @@
-# MazeSolver
+# Maze Solver
 ## About the application
 This application tests whether a maze, given as an input image, can be solve or not.
 It tests it using the Disjoint Sets (Union-Find) data stracture.
